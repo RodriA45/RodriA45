@@ -5,7 +5,7 @@ Soy un **Desarrollador de Software** apasionado por construir herramientas útil
 🛠 **Tecnologías y Herramientas:**
 - **Lenguajes:** Python, JavaScript, HTML/CSS
 - **Frameworks & Librerías:** Flask, Tkinter, Pytest
-- **Bases de Datos & APIs:** SQLite, JSON, Integración con MercadoPago
+- **Bases de Datos & APIs:** SQLite, PostgreSQL
 - **Entorno:** Git, Testing Automatizado
 
 🌱 **Actualmente estoy:**
