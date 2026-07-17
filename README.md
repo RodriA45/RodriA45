@@ -75,5 +75,5 @@ Busco seguir creciendo como desarrollador y conseguir mi primera oportunidad pro
 
 ## 📫 Contacto
 
-💼 LinkedIn: https://www.linkedin.com/in/rodrigo-antunez-9523a6380/
-📧 Email: [ridriantunez2016@gmail.com](mailto:ridriantunez2016@gmail.com)
+💼 LinkedIn: www.linkedin.com/in/rodrigo-antunez-
+📧 Email: [rodrigo.antunez.dev@gmail.com](mailto:rodrigo.antunez.dev@gmail.com)
