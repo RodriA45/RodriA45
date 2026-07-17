@@ -79,4 +79,6 @@ Busco seguir creciendo como desarrollador y conseguir mi primera oportunidad pro
 
 📧 Email: rodrigo.antunez.dev@gmail.com
 
-📩 [Contactame](mailto:rodrigo.antunez.dev@gmail.com)
+📩 [Contactame por gmail](mailto:rodrigo.antunez.dev@gmail.com)
+
+💬 WhatsApp: https://wa.me/5493865227220
