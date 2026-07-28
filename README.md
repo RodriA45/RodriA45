@@ -25,7 +25,7 @@ Actualmente estoy en constante aprendizaje, mejorando mis habilidades en desarro
 ## 🛠 Tecnologías y Herramientas
 
 **Lenguajes:**
-Python · JavaScript · HTML · CSS
+Python · JavaScript
 
 **Backend & Frameworks:**
 Flask · Node.js
