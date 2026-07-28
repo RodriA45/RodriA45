@@ -31,7 +31,7 @@ Python · JavaScript · HTML · CSS
 Flask · Node.js
 
 **Frontend:**
-HTML · CSS · JavaScript - React
+HTML · CSS · JavaScript · React
 
 **Bases de Datos:**
 PostgreSQL · SQLite
