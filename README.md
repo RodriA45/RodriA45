@@ -15,19 +15,19 @@ Construyo soluciones reales que aportan valor: aplicaciones web y sistemas de ge
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 Disfruto transformar ideas en aplicaciones concretas: desde sistemas de escritorio hasta plataformas web con usuarios reales.
 Actualmente estoy en constante aprendizaje, mejorando mis habilidades en **desarrollo backend**, **arquitectura de aplicaciones** y **despliegue en producción**.
 
-- 🔭 Trabajando en un **sistema de turnos web** para un negocio real
-- 🌱 Aprendiendo mejores prácticas de **arquitectura backend**
-- 🎯 Buscando mi **primera oportunidad profesional** en IT
-- 💬 Preguntame sobre **Python, Flask, React o bases de datos relacionales**
+-  Trabajando en un **sistema de turnos web** para un negocio real
+-  Aprendiendo mejores prácticas de **arquitectura backend**
+-  Buscando mi **primera oportunidad profesional** en IT
+-  Preguntame sobre **Python, Flask, React o bases de datos relacionales**
 
 ---
 
-## 🧠 Qué sé hacer
+##  Qué sé hacer
 
 - Desarrollo de **aplicaciones web completas** (frontend + backend)
 - Creación de **APIs REST**
@@ -37,7 +37,7 @@ Actualmente estoy en constante aprendizaje, mejorando mis habilidades en **desar
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 <div align="center">
 
@@ -68,31 +68,13 @@ Actualmente estoy en constante aprendizaje, mejorando mis habilidades en **desar
 
 ---
 
-## 📌 Proyectos Destacados
-
-### 🔹 Sistema de Turnos Web *(Proyecto Real)*
-Aplicación completa para gestión de turnos en un negocio real: reservas, panel de administración, bloqueo de horarios, base de datos y despliegue online.
-> Actualmente en mejora con integraciones de pago y testing avanzado.
-
-### 🔹 ImportaYa
-Plataforma web enfocada en simulación/gestión de importaciones, con lógica de negocio aplicada y estructura escalable.
-
-### 🔹 Marketplace R45
-Proyecto tipo e-commerce en desarrollo, aplicando conceptos de frontend dinámico y estructura de productos.
-
-### 🔹 Otros proyectos
-Aplicaciones interactivas, herramientas web y experimentos con interfaces dinámicas.
-
----
-
-
-## 🎯 Objetivo
+##  Objetivo
 
 Busco seguir creciendo como desarrollador y conseguir mi primera oportunidad profesional en el mundo IT, aportando soluciones reales y mejorando continuamente mis habilidades.
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 <div align="center">
 
