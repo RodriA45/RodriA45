@@ -87,7 +87,9 @@ Busco seguir creciendo como desarrollador y conseguir mi primera oportunidad pro
 
 <div align="center">
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRodriA45&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" alt="Profile Views" />
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RodriA45.RodriA45&left_text=Visitas" alt="Profile Views" />
+</p>
 
 </div>
 
