@@ -87,7 +87,7 @@ Busco seguir creciendo como desarrollador y conseguir mi primera oportunidad pro
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rodria45&color=blue&style=flat-square)
+<img src="https://komarev.com" alt="Profile Views" />
 
 </div>
 
