@@ -89,7 +89,6 @@ Busco seguir creciendo como desarrollador y conseguir mi primera oportunidad pro
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=RodriA45.RodriA45&left_text=Visitas" alt="Profile Views" />
 
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%" />
