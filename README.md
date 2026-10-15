@@ -87,7 +87,7 @@ Busco seguir creciendo como desarrollador y conseguir mi primera oportunidad pro
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RodriA45&label=Visitas&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=RodriA45.RodriA45" alt="Profile Views" />
 
 </div>
 
